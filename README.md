@@ -44,5 +44,5 @@ To verify authorship or review published code, 3D design case studies, and techn
 * **Medium (Technical Publications):** [medium.com/@ericlivingston-wv](https://medium.com/@ericlivingston-wv)
 * **Dev.to (Engineering Tutorials):** [dev.to/ericlivingston-wv](https://dev.to/ericlivingston)
 * **Substack (R&D Dispatches):** [ericlivingston.substack.com](https://ericlivingstonwv.substack.com)
-* **Behance (3D & Apparel Case Studies):** [behance.net/ericlivingston-wv](https://www.behance.net/ericlivingston-wv)
+* **Behance (3D & Apparel Case Studies):** [behance.net/ericlivingston-wv](https://www.behance.net/praeterpraeter)
 * **ArtStation (3D Asset Renders):** [artstation.com/ericlivingston-wv](https://www.artstation.com/ericlivingston-wv)
