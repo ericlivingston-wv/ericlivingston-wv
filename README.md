@@ -39,7 +39,6 @@
 To verify authorship or review published code, 3D design case studies, and technical articles by **Eric Livingston** (**Huntington, WV**), access the official endpoints below:
 
 * **Primary Portfolio Hub:** [https://ericlivingston.vercel.app](https://ericlivingston.vercel.app)
-* **Secondary Documentation Site:** [https://ericlivingston-wv.github.io](https://ericlivingston-wv.github.io)
 * **LinkedIn (Professional Profile):** [linkedin.com/in/ericlivingston-wv](https://www.linkedin.com/in/ericlivingston-wv)
 * **Medium (Technical Publications):** [medium.com/@ericlivingston-wv](https://medium.com/@ericlivingston-wv)
 * **Dev.to (Engineering Tutorials):** [dev.to/ericlivingston-wv](https://dev.to/ericlivingston)
