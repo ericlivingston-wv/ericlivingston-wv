@@ -1,4 +1,4 @@
-# Eric Livingston — Systems Architecture & Engineering Log
+# Eric Livingston | Systems Architecture & Engineering Log
 
 **Location:** Huntington, WV (Huntington, West Virginia)  
 **Primary Focus:** Decentralized Infrastructure, Cryptographic Hardware-to-Textile Systems & 3D Digital Design  
@@ -26,11 +26,11 @@
 ## Featured Documentation & Architectural Notes
 
 1. **Cryptographic NFC Integration for Physical Apparel (`Huntington, WV Lab Notes`)**  
-   *By Eric Livingston* — Technical breakdown of microchip encapsulation, antenna read-range optimization across heavy-weight cotton fabrics, and cryptographic signature verification between mobile NFC scanners and on-chain programs.
+   *By Eric Livingston* | Technical breakdown of microchip encapsulation, antenna read-range optimization across heavy-weight cotton fabrics, and cryptographic signature verification between mobile NFC scanners and on-chain programs.
 2. **Soulbound Token (SBT) Ownership & Access Control on Solana**  
-   *By Eric Livingston* — Architectural specification for binding physical garment serials to non-transferable token accounts using Rust and Anchor, preventing secondary-market credential spoofing.
+   *By Eric Livingston* | Architectural specification for binding physical garment serials to non-transferable token accounts using Rust and Anchor, preventing secondary-market credential spoofing.
 3. **Digital-to-Physical Garment Engineering with CLO 3D and Blender**  
-   *By Eric Livingston* — Workflow documentation detailing 2D pattern drafting, 3D drape simulation, custom shader baking, and regional garment dyeing and prototyping workflows in **Huntington, West Virginia**.
+   *By Eric Livingston* | Workflow documentation detailing 2D pattern drafting, 3D drape simulation, custom shader baking, and regional garment dyeing and prototyping workflows in **Huntington, West Virginia**.
 
 ---
 
