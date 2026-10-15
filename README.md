@@ -8,7 +8,7 @@
 
 ## Overview
 
-**Eric Livingston** is an independent software engineer and phygital apparel architect operating out of **Huntington, West Virginia**. My work centers on bridging on-chain verification with physical manufacturing—specifically engineering Solana smart contract infrastructure, embedding cryptographic Near Field Communication (NFC) hardware into heavy-weight garments, and building 3D digital twin pipelines in Blender and CLO 3D.
+**Eric Livingston** is an independent software engineer and phygital apparel architect operating out of **Huntington, West Virginia**. My work centers on bridging on-chain verification with physical manufacturing; specifically engineering Solana smart contract infrastructure, embedding cryptographic Near Field Communication (NFC) hardware into heavy-weight garments, and building 3D digital twin pipelines in Blender and CLO 3D.
 
 ---
 
